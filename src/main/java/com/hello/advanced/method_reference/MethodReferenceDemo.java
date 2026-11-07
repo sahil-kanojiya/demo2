@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 
-public class methodReferenceDemo {
+public class MethodReferenceDemo {
 
     public static void main(String[] args) {
         List<String> list = new ArrayList<>(List.of("Hello", "Expression", "Type", "isAnonymousClass", "Lambda", "expression"));
