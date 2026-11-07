@@ -1,4 +1,4 @@
-# Demo 2
+# Java Practice Sandbox
 
 Spring Boot demonstration project for testing service interactions and integration patterns.
 
